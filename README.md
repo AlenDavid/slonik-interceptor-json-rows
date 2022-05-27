@@ -1,3 +1,5 @@
+![test workflow](https://github.com/alendavid/slonik-interceptor-json-rows/actions/workflows/test.yml/badge.svg)
+
 # Slonik Json Interceptor
 
 Transform [slonik](https://www.npmjs.com/package/slonik)'s QueryResultRow key into json-ready objects.
