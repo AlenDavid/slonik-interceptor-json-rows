@@ -11,6 +11,7 @@
     "dist"
   ],
   "scripts": {
+    "test": "ts-node src/index.test.ts",
     "build": "tsc"
   },
   "keywords": [
