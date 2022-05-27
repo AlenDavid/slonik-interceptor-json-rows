@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "Slonik Json Interceptor",
   "main": "dist/index.js",
+  "funding": "https://patreon.com/davidalen",
   "engines": {
     "node": ">=10.0"
   },
-  "scripts": {},
+  "scripts": {
+    "build": "tsc"
+  },
   "keywords": [
     "postgresql",
     "promise",
