@@ -7,6 +7,9 @@
   "engines": {
     "node": ">=10.0"
   },
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc"
   },
