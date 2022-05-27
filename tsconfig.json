@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "target": "ES2016",
+    "sourceMap": true,
+    "strict": true,
+    "outDir": "./dist",
+    "noEmit": false,
+  },
+}
